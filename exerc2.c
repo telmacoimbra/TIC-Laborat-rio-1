@@ -2,6 +2,7 @@
     int main()
 		{
 		float sm,st,t;
+		printf("Bem-Vindo");
 		printf("Informe o salario medio");
 		scanf("%f",&sm);
 		printf("Informe o salario ganho");
@@ -9,3 +10,7 @@
 		t=st/sm;
 		printf("%f",t);
 	}
+
+
+
+	//Telma Coimbra
