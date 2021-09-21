@@ -8,4 +8,4 @@
 		 scanf("%i",&lado2);
 		 t=lado1*lado2;
 		printf("%i",t);
-	 }
+}
